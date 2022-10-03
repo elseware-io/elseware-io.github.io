@@ -1,0 +1,16 @@
+title: elseware
+author:
+    name: elseware
+    email: contact@elseware.io
+description: ""
+
+remote_theme: jekyll/minima
+minima:
+    skin: dark
+
+header_pages:
+    - index.md
+
+plugins:
+    - github-pages
+
