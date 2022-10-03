@@ -1,7 +1,7 @@
 title: elseware
 author:
     name: elseware
-    email: contact@elseware.io
+    #email: contact@elseware.io
 description: ""
 
 remote_theme: jekyll/minima
